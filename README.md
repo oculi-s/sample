@@ -1,6 +1,6 @@
 # BLOG
 
-[LINK](https://oculis.iptime.org/sample) Hosted by Raspberrypi & Nginx  
+[LINK](http://oculis.iptime.org/sample) Hosted by Raspberrypi & Nginx  
 ID : test@test.com PW : test1234??  
 
 ## 데이터가 암호화된 블로그
